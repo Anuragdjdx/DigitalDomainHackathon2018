@@ -1,0 +1,1 @@
+D:\DigitalDomainHackathon\SaveYourWorld\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
